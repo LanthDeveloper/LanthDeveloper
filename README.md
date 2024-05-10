@@ -1,12 +1,11 @@
 ![Header](https://smartbuyers.pl/wp-content/uploads/2021/01/programista-php.jpg "Header")
 
 # Hello, I'm Anthony Lee
-## Frontend Developer
-
-I'm a passionate Frontend Developer with a strong drive to create engaging and intuitive user experiences. Equipped with a solid foundation in modern web technologies, I'm excited to contribute my skills and continuously grow in this dynamic field.
 ## Portfolio
 Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 
+## Frontend Developer
+I'm a passionate Frontend Developer with a strong drive to create engaging and intuitive user experiences. Equipped with a solid foundation in modern web technologies, I'm excited to contribute my skills and continuously grow in this dynamic field.
 
 ### Languages and Tools
 <p align="left">
