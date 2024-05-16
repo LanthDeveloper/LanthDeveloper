@@ -7,8 +7,8 @@
     Hello, I'm Anthony, a frontend developer. I've been immersed in web development. My goal is to establish myself as a notable figure in this industry. I strive to innovate, be reliable, and eventually reach a level where
     I can inspire younger developers to pursue their dreams and create passionately.
 </h4>
-<h3 align="left">Portfolio </h3>
-Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
+<h3 align="left">Portfolio:</h3>
+Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 <hr />
 
 <!-- TECHS -->
