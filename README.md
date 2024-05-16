@@ -25,6 +25,12 @@ I'm a passionate Frontend Developer with a strong drive to create engaging and i
 </div>
 
 </p>
-
+ <a href="https://www.linkedin.com/in/Lanthdev/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="40" width="40" />
+    </a>
+    &nbsp&nbsp&nbsp
+    <a href="https://www.linkedin.com/in/Lanthdev/" target="blank">
+        <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" height="40" width="40" />
+    </a>
 
 
