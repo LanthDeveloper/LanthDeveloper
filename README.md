@@ -7,7 +7,7 @@
     Hello, I'm Anthony, a frontend developer. I've been immersed in web development. My goal is to establish myself as a notable figure in this industry. I strive to innovate, be reliable, and eventually reach a level where
     I can inspire younger developers to pursue their dreams and create passionately.
 </h4>
-## Portfolio 
+<h3 align="left">Portfolio </h3>
 Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 <hr />
 
@@ -15,7 +15,6 @@ Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">L
 <h2 align="center">Skills</h2>
 
 <div align="center">
-    <br />
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="75" height="75" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="75" height="75" />
@@ -69,10 +68,6 @@ Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">L
     &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/Lanthdev/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="40" width="40" />
-    </a>
-    &nbsp&nbsp&nbsp
-    <a href="lanthdev@gmail.com" target="blank">
-        <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" height="40" width="40" />
     </a>
 </p>
 
