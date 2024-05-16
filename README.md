@@ -2,12 +2,13 @@
     <img src="https://github.com/LanthDeveloper/LanthDeveloper/blob/main/images/wallpaper_profile.png" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Anthony Lee - Lanthdev</h1>
-<h3 align="center">Im Web Developer</h3>
+<h3 align="center">I'm Web Developer</h3>
 <h4 align="center">
     Hello, I'm Anthony, a frontend developer. I've been immersed in web development for three years. My goal is to establish myself as a notable figure in this industry. I strive to innovate, be reliable, and eventually reach a level where
     I can inspire younger developers to pursue their dreams and create passionately.
 </h4>
-## Portfolio Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
+## Portfolio 
+Check out my portfolio at: <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 <hr />
 
 <!-- TECHS -->
