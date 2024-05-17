@@ -48,7 +48,7 @@ Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">
                     <br />
                     <br />
                     <p>
-                        <a href="https://github.com/LanthDeveloper/Runa_Peru" target="_blank"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" /></a>
+                        <a href="https://github.com/LanthDeveloper/Runa-Peru" target="_blank"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" /></a>
                         <a href="https://runaperu.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" /></a>
                     </p>
                     <p><strong>HTML, CSS, Javascript, Tailwind</strong></p>
