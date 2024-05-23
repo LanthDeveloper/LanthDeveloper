@@ -66,7 +66,7 @@ Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">
 <h2 align="center">Contact Me</h2>
 <p align="center">
     &nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/Lanthdev/" target="blank">
+    <a href="https://www.linkedin.com/in/anthonylee-dev/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="40" width="40" />
     </a>
 </p>
