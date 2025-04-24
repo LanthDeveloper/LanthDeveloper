@@ -11,13 +11,20 @@
 <h3 align="left">Portfolio:</h3>
 Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 <hr />
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" height="75" />
+
+<div align="center">
+    <div>
+       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" height="75" />
        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="html5" height="75" />
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="html5" height="75" />
               <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="html5" height="75" />
                   <img src="https://img.shields.io/badge/Zustand-593D88?style=for-the-badge&logo=react&logoColor=white" alt="html5" height="75" />
                       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="html5" height="75" />
                           <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" alt="html5" height="75" />
+    </div>
+</div>
+
+                          
 <!-- TECHS -->
 <h2 align="center">Skills</h2>
 
