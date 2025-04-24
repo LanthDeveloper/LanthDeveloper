@@ -65,13 +65,6 @@
 
 <hr />
 
-<!-- GITHUB STATS -->
-<h2 align="center">📈 GitHub Stats</h2>
-<div align="center">
-   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=LanthDeveloper&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
-</div>
-<br/>
-
 <!-- SOCIALS -->
 <h2 align="center">📫 Get In Touch</h2>
 <p align="center">I'm always interested in new opportunities and collaborations. I'd love to be part of your team!</p>
