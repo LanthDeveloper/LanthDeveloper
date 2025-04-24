@@ -68,7 +68,7 @@
 <!-- GITHUB STATS -->
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LanthDeveloper&theme=vue-dark&hide_border=true" alt="LanthDeveloper's Streak" />
+   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=LanthDeveloper&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
 </div>
 <br/>
 
