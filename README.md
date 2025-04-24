@@ -4,14 +4,12 @@
 <h1 align="center">Hi 👋, I'm Anthony Lee - Lanthdev</h1>
 <h3 align="center">Full Stack Developer passionate about building impactful solutions</h3>
 <p align="center">
-    Hello, I'm Anthony, a Web Developer. I've been immersed in web development. My goal is to establish myself as a notable figure in this industry. I strive to innovate, be reliable, and eventually reach a level where
+    Hello, I'm Anthony, a Software Developer. I've been immersed in web development. My goal is to establish myself as a notable figure in this industry. I strive to innovate, be reliable, and eventually reach a level where
     I can inspire younger developers to pursue their dreams and create passionately.
 </p>
 <h3 align="left">Portfolio:</h3>
 Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 <hr />
-
-
 
 <!-- TECHS -->
 <h2 align="center">Skills</h2>
@@ -76,8 +74,10 @@ Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">
 <h2 align="center">📫 Get In Touch</h2>
 <p align="center">I'm always interested in new opportunities and collaborations. I'd love to be part of your team!
 </p>
-📧 Email: lanthdev@gmail.com
-📱 Phone: +51 900 150 293
-💼 LinkedIn: linkedin.com/in/anthonylee
-🌐 Portfolio: lanthdev.pages.dev
+
+📧 **Email:** [lanthdev@gmail.com](mailto:lanthdev@gmail.com)  
+📱 **Phone:** +51 900 150 293  
+💼 **LinkedIn:** [linkedin.com/in/anthonylee](https://linkedin.com/in/anthonylee)  
+🌐 **Portfolio:** [lanthdev.pages.dev](https://lanthdev.pages.dev)
+
 
