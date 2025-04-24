@@ -11,7 +11,7 @@
 <h3 align="left">Portfolio:</h3>
 Check out my portfolio at - <a href="https://lanthdev.pages.dev" target="blank">Lanthdev.pages.dev</a>
 <hr />
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" width="75" height="75" />
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" height="75" />
 <!-- TECHS -->
 <h2 align="center">Skills</h2>
 
