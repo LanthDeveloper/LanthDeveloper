@@ -65,15 +65,18 @@
 
 <hr />
 
-<!-- Contact -->
-<h2 align="center">📫 Get In Touch</h2>
-<p align="center">
-  I'm always open to exciting opportunities and collaborations. Feel free to reach out!
-</p>
+<!-- GITHUB STATS -->
+<h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LanthDeveloper&theme=vue-dark&hide_border=true" alt="LanthDeveloper's Streak" />
+</div>
+<br/>
 
-<p align="center">
-  📧 <strong>Email:</strong> <a href="mailto:lanthdev@gmail.com">lanthdev@gmail.com</a><br />
-  📱 <strong>Phone:</strong> +51 900 150 293<br />
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/anthonylee" target="_blank">linkedin.com/in/anthonylee</a><br />
-  🌐 <strong>Portfolio:</strong> <a href="https://lanthdev.pages.dev" target="_blank">lanthdev.pages.dev</a>
-</p>
+<!-- SOCIALS -->
+<h2 align="center">📫 Get In Touch</h2>
+<p align="center">I'm always interested in new opportunities and collaborations. I'd love to be part of your team!</p>
+
+📧 **Email:** [lanthdev@gmail.com](mailto:lanthdev@gmail.com)  
+📱 **Phone:** +51 900 150 293  
+💼 **LinkedIn:** [linkedin.com/in/anthonylee](https://linkedin.com/in/anthonylee)  
+🌐 **Portfolio:** [lanthdev.pages.dev](https://lanthdev.pages.dev)
